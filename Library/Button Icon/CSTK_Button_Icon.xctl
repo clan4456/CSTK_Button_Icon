@@ -1,0 +1,211 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XControl LVVersion="15008000">
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!**!!!*Q(C=\&gt;5`&lt;BJ"&amp;-@R8[)5;&lt;F"N#XFEV+3BCN1B_J6K50LECO]SJ*,$J!C+_5%\QK)'X#&amp;T8&gt;G(]C+(.%EFG6ZFI(F.`]_HFX75C]@J1_;&lt;J6PFT*NHSCUNT\4J8WZ8-ZVWVZT?WO\NF@,X/7*^O6W&lt;J`0`D\_U@S8?FH`D`9&lt;`BN&amp;&lt;_7NP/ZS&gt;`.(].^`"_`5(E45J!&lt;6K;;W\*4E3:\E3:\E32\E12\E12\E1?\E4O\E4O\E4G\E2G\E2G\E2NY0=J',8/31EM74B:**EQG3TF#5P#7?R*.Y%A^@F8A34_**0)G(,EI]C3@R**\%QT!FHM34?"*0YG'K,MF_E/.*0%SPQ".Y!E`A#4QMK=!4!),&amp;AIG$37!I;!R/!E`A#4S=+P!%HM!4?!)0T1I]A3@Q"*\!QZ#_+^%V\3$(QT2S0)\(]4A?R]05=DS/R`%Y(M@$=H)]DM&gt;"/!M[EU/1-]DJY(RR0)[($TE?R_.Y()`DI;F@)?]\UT4N)-&gt;D?!S0Y4%]BI=J:(A-D_%R0);(;76Y$)`B-4S'B[6E?!S0Y4%ARK)M,W-S9[$2S1A-$[^_NVC`3N%FVA_J&lt;F\64;G[W61XE?LG5&amp;VUV=658346ZKMW6&lt;6:KEV1`8%KN!KD7E1VO(85G@=D&gt;;1?K(PKDLKBLKE$&gt;&gt;''`O//Z`.:R_.2YTDK=$BIP^^LN^NJM^FIP6ZL'!9N&amp;IPL9_!4R`7"-$_8\LZ-U]`6=(J9`@D[M0J_T_&gt;J`08ZV0*H_0`]!J[.?K`(;\"(PQ(&lt;-7R?!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">CSTK_Button_Icon</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Flags" Type="Int">0</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">XControl 2</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="NI_IconEditor" Type="Str">49 53 48 49 56 48 48 52 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 4 27 1 100 1 100 80 84 72 48 0 0 0 53 0 1 0 4 11 67 76 65 78 32 83 116 117 100 105 111 4 67 76 65 78 6 66 117 116 116 111 110 24 98 116 110 95 49 95 50 48 50 51 48 50 49 52 49 48 49 48 52 51 46 112 110 103 0 0 3 162 0 40 0 0 3 156 0 0 3 96 0 0 0 0 0 9 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 0 0 0 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 0 0 0 0 0 0 113 241 255 0 0 0 0 0 0 0 0 0 113 241 255 0 0 0 113 241 255 113 241 255 113 241 255 0 0 0 146 42 255 146 42 255 146 42 255 146 42 255 189 210 210 210 210 210 210 210 225 168 42 240 189 210 210 210 210 210 210 210 225 168 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 255 146 42 255 146 42 255 0 0 0 0 0 0 113 241 255 0 0 0 113 241 255 113 241 255 113 241 255 0 0 0 113 241 255 113 241 255 113 241 255 0 0 0 146 42 255 146 42 255 146 42 255 146 42 255 189 210 225 168 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 240 189 210 210 210 210 225 168 42 240 189 210 225 168 42 255 146 42 255 146 42 255 146 42 255 0 0 0 0 0 0 113 241 255 0 0 0 113 241 255 113 241 255 113 241 255 0 0 0 113 241 255 113 241 255 113 241 255 0 0 0 146 42 255 146 42 255 146 42 255 146 42 255 189 210 210 210 210 225 168 42 255 146 42 255 146 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 240 189 210 210 210 210 225 168 42 255 146 42 255 146 42 255 146 42 255 0 0 0 0 0 0 113 241 255 0 0 0 113 241 255 113 241 255 113 241 255 0 0 0 113 241 255 113 241 255 113 241 255 0 0 0 146 42 255 146 42 255 146 42 255 146 42 255 189 210 225 168 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 255 146 42 255 146 42 255 0 0 0 0 0 0 113 241 255 0 0 0 0 0 0 0 0 0 113 241 255 0 0 0 0 0 0 0 0 0 113 241 255 0 0 0 146 42 255 146 42 255 146 42 255 146 42 255 189 210 210 210 210 210 210 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 240 189 210 225 168 42 255 146 42 255 146 42 255 146 42 255 0 0 0 0 0 0 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 113 241 255 0 0 0 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 146 42 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 54 112 120 50 98 117 115 0 2 6 1 1
+
+</Property>
+	<Item Name="Private" Type="Folder">
+		<Item Name="Function" Type="Folder">
+			<Item Name="_CSTK_Button_Icon_CreateBGImage.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_CreateBGImage.vi"/>
+			<Item Name="_CSTK_Button_Icon_EventUpdateControlView.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_EventUpdateControlView.vi"/>
+			<Item Name="_CSTK_Button_Icon_ResizeButtonSize.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_ResizeButtonSize.vi"/>
+			<Item Name="_CSTK_Button_Icon_UpdateCurrentBGImage.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_UpdateCurrentBGImage.vi"/>
+			<Item Name="_CSTK_Button_Icon_Config_getInstalledFonts.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_Config_getInstalledFonts.vi"/>
+			<Item Name="_CSTK_Button_Icon_Config_PreviewImage.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_Config_PreviewImage.vi"/>
+			<Item Name="_CSTK_Button_Icon_Config_UpdateConfiguration.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_Config_UpdateConfiguration.vi"/>
+			<Item Name="_CSTK_Button_Icon_Config_Refresh.vi" Type="VI" URL="../Private/Function/_CSTK_Button_Icon_Config_Refresh.vi"/>
+		</Item>
+		<Item Name="TypeDefinitions" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="_CSTK_Button_Icon_EventData.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_EventData.ctl"/>
+			<Item Name="_CSTK_Button_Icon_BGColor.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_BGColor.ctl"/>
+			<Item Name="_CSTK_Button_Icon_BorderColor.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_BorderColor.ctl"/>
+			<Item Name="_CSTK_Button_Icon_BorderProperties.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_BorderProperties.ctl"/>
+			<Item Name="_CSTK_Button_Icon_BorderProperties_Data.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_BorderProperties_Data.ctl"/>
+			<Item Name="_CSTK_Button_Icon_ButtonSize.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_ButtonSize.ctl"/>
+			<Item Name="_CSTK_Button_Icon_CurrentBGImage.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_CurrentBGImage.ctl"/>
+			<Item Name="_CSTK_Button_Icon_DrawAreaSize.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_DrawAreaSize.ctl"/>
+			<Item Name="_CSTK_Button_Icon_LogoImage.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_LogoImage.ctl"/>
+			<Item Name="_CSTK_Button_Icon_LogoProperties.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_LogoProperties.ctl"/>
+			<Item Name="_CSTK_Button_Icon_LogoProperties_Data.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_LogoProperties_Data.ctl"/>
+			<Item Name="_CSTK_Button_Icon_TextProperties.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_TextProperties.ctl"/>
+			<Item Name="_CSTK_Button_Icon_TextProperties_Data.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_TextProperties_Data.ctl"/>
+			<Item Name="_CSTK_Button_Icon_TextString.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_TextString.ctl"/>
+			<Item Name="_CSTK_Button_Icon_TextProperties_FontStyle.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_TextProperties_FontStyle.ctl"/>
+			<Item Name="_CSTK_Button_Icon_TextStartOffset.ctl" Type="VI" URL="../Private/TypeDefinitions/_CSTK_Button_Icon_TextStartOffset.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_BoolText.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_BoolText.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_BorderRadius.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_BorderRadius.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_BorderWidth.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_BorderWidth.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_BorderStyle.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_BorderStyle.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_LogoImageData.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_LogoImageData.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_HorizontalOffset.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_HorizontalOffset.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_Configure.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_Configure.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_FontStyle.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_FontStyle.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_Color.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_Color.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_Display.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_Display.ctl"/>
+			<Item Name="CSTK_Button_Icon_Properties_ButtonImage.ctl" Type="VI" URL="../Private/TypeDefinitions/CSTK_Button_Icon_Properties_ButtonImage.ctl"/>
+		</Item>
+	</Item>
+	<Item Name="Properties" Type="Folder">
+		<Item Name="ButtonSize" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">ButtonSize</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">按钮大小</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_ButtonSize.vi" Type="Property VI" URL="../Properties/ButtonSize/CSTK_Button_Icon_get_ButtonSize.vi"/>
+			<Item Name="CSTK_Button_Icon_set_ButtonSize.vi" Type="Property VI" URL="../Properties/ButtonSize/CSTK_Button_Icon_set_ButtonSize.vi"/>
+		</Item>
+		<Item Name="BoolText" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">BoolText</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">布尔文本</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_BoolText.vi" Type="Property VI" URL="../Properties/BoolText/CSTK_Button_Icon_get_BoolText.vi"/>
+			<Item Name="CSTK_Button_Icon_set_BoolText.vi" Type="Property VI" URL="../Properties/BoolText/CSTK_Button_Icon_set_BoolText.vi"/>
+		</Item>
+		<Item Name="BoolText:DisplayText" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">BoolText:DisplayText</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">布尔文本:显示文本</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_BoolText_DisplayText.vi" Type="Property VI" URL="../Properties/BoolText_DisplayText/CSTK_Button_Icon_get_BoolText_DisplayText.vi"/>
+			<Item Name="CSTK_Button_Icon_set_BoolText_DisplayText.vi" Type="Property VI" URL="../Properties/BoolText_DisplayText/CSTK_Button_Icon_set_BoolText_DisplayText.vi"/>
+		</Item>
+		<Item Name="BoolText:TextColor" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">BoolText:TextColor</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">布尔文本:文本颜色</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_BoolText_TextColor.vi" Type="Property VI" URL="../Properties/BoolText_TextColor/CSTK_Button_Icon_get_BoolText_TextColor.vi"/>
+			<Item Name="CSTK_Button_Icon_set_BoolText_TextColor.vi" Type="Property VI" URL="../Properties/BoolText_TextColor/CSTK_Button_Icon_set_BoolText_TextColor.vi"/>
+		</Item>
+		<Item Name="BoolText:HorizontalOffset" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">BoolText:HorizontalOffset</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">布尔文本:水平偏移</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_BoolText_HorizontalOffset.vi" Type="Property VI" URL="../Properties/BoolText_HorizontalOffset/CSTK_Button_Icon_get_BoolText_HorizontalOffset.vi"/>
+			<Item Name="CSTK_Button_Icon_set_BoolText_HorizontalOffset.vi" Type="Property VI" URL="../Properties/BoolText_HorizontalOffset/CSTK_Button_Icon_set_BoolText_HorizontalOffset.vi"/>
+		</Item>
+		<Item Name="BoolText:FontStyle" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">BoolText:FontStyle</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">布尔文本:字体样式</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_BoolText_FontStyle.vi" Type="Property VI" URL="../Properties/BoolText_FontStyle/CSTK_Button_Icon_get_BoolText_FontStyle.vi"/>
+			<Item Name="CSTK_Button_Icon_set_BoolText_FontStyle.vi" Type="Property VI" URL="../Properties/BoolText_FontStyle/CSTK_Button_Icon_set_BoolText_FontStyle.vi"/>
+		</Item>
+		<Item Name="LogoImageData" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">LogoImageData</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">LOGO图像</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_LogoImageData.vi" Type="Property VI" URL="../Properties/LogoImageData/CSTK_Button_Icon_get_LogoImageData.vi"/>
+			<Item Name="CSTK_Button_Icon_set_LogoImageData.vi" Type="Property VI" URL="../Properties/LogoImageData/CSTK_Button_Icon_set_LogoImageData.vi"/>
+		</Item>
+		<Item Name="LOGO:DisplayLogo" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">LOGO:DisplayLogo</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">LOGO:显示LOGO</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_LOGO_DisplayLogo.vi" Type="Property VI" URL="../Properties/LOGO_DisplayLogo/CSTK_Button_Icon_get_LOGO_DisplayLogo.vi"/>
+			<Item Name="CSTK_Button_Icon_set_LOGO_DisplayLogo.vi" Type="Property VI" URL="../Properties/LOGO_DisplayLogo/CSTK_Button_Icon_set_LOGO_DisplayLogo.vi"/>
+		</Item>
+		<Item Name="LOGO:HorizontalOffset" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">LOGO:HorizontalOffset</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">LOGO:水平偏移</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_LOGO_HorizontalOffset.vi" Type="Property VI" URL="../Properties/LOGO_HorizontalOffset/CSTK_Button_Icon_get_LOGO_HorizontalOffset.vi"/>
+			<Item Name="CSTK_Button_Icon_set_LOGO_HorizontalOffset.vi" Type="Property VI" URL="../Properties/LOGO_HorizontalOffset/CSTK_Button_Icon_set_LOGO_HorizontalOffset.vi"/>
+		</Item>
+		<Item Name="BGColor" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">BGColor</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">背景颜色</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_BGColor.vi" Type="Property VI" URL="../Properties/BGColor/CSTK_Button_Icon_get_BGColor.vi"/>
+			<Item Name="CSTK_Button_Icon_set_BGColor.vi" Type="Property VI" URL="../Properties/BGColor/CSTK_Button_Icon_set_BGColor.vi"/>
+		</Item>
+		<Item Name="BorderColor" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">BorderColor</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">边框颜色</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_BorderColor.vi" Type="Property VI" URL="../Properties/BorderColor/CSTK_Button_Icon_get_BorderColor.vi"/>
+			<Item Name="CSTK_Button_Icon_set_BorderColor.vi" Type="Property VI" URL="../Properties/BorderColor/CSTK_Button_Icon_set_BorderColor.vi"/>
+		</Item>
+		<Item Name="Border:Radius" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Border:Radius</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">边框属性:圆角半径</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_Border_Radius.vi" Type="Property VI" URL="../Properties/Border_Radius/CSTK_Button_Icon_get_Border_Radius.vi"/>
+			<Item Name="CSTK_Button_Icon_set_Border_Radius.vi" Type="Property VI" URL="../Properties/Border_Radius/CSTK_Button_Icon_set_Border_Radius.vi"/>
+		</Item>
+		<Item Name="Border:LineWidth" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Border:LineWidth</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">边框属性:线条宽度</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_Border_LineWidth.vi" Type="Property VI" URL="../Properties/Border_LineWidth/CSTK_Button_Icon_get_Border_LineWidth.vi"/>
+			<Item Name="CSTK_Button_Icon_set_Border_LineWidth.vi" Type="Property VI" URL="../Properties/Border_LineWidth/CSTK_Button_Icon_set_Border_LineWidth.vi"/>
+		</Item>
+		<Item Name="Border:LineStyle" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">Border:LineStyle</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">边框属性:线条样式</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_Border_LineStyle.vi" Type="Property VI" URL="../Properties/Border_LineStyle/CSTK_Button_Icon_get_Border_LineStyle.vi"/>
+			<Item Name="CSTK_Button_Icon_set_Border_LineStyle.vi" Type="Property VI" URL="../Properties/Border_LineStyle/CSTK_Button_Icon_set_Border_LineStyle.vi"/>
+		</Item>
+		<Item Name="ButtonImage" Type="Property Folder">
+			<Property Name="NI.LibItem.Prop.HelpTag" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Identifier" Type="Str">ButtonImage</Property>
+			<Property Name="NI.LibItem.Prop.Localized.Description" Type="Str"></Property>
+			<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">按钮图像</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="CSTK_Button_Icon_get_ButtonImage.vi" Type="Property VI" URL="../Properties/ButtonImage/CSTK_Button_Icon_get_ButtonImage.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Dialog" Type="Folder">
+		<Item Name="CSTK_Button_Icon_Dialog_Configuration.vi" Type="VI" URL="../Dialog/CSTK_Button_Icon_Dialog_Configuration.vi"/>
+	</Item>
+	<Item Name="CSTK_Button_Icon_Data.ctl" Type="Ability VI" URL="../CSTK_Button_Icon_Data.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">Data</Property>
+	</Item>
+	<Item Name="CSTK_Button_Icon_Init.vi" Type="Ability VI" URL="../CSTK_Button_Icon_Init.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="CSTK_Button_Icon_Status.ctl" Type="Ability VI" URL="../CSTK_Button_Icon_Status.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="CSTK_Button_Icon_View.vi" Type="Ability VI" URL="../CSTK_Button_Icon_View.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+	</Item>
+</XControl>
